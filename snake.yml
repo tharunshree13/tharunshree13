@@ -1,0 +1,75 @@
+name: 🐍 Generate Snake Animation
+
+on:
+  # Auto-runs every 12 hours to keep contribution graph fresh
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Manually trigger from GitHub Actions tab anytime
+  workflow_dispatch:
+
+  # Runs on every push to main branch
+  push:
+    branches:
+      - main
+
+# Prevent multiple runs at the same time
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: 🎮 Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    permissions:
+      contents: write  # Required to push to output branch
+
+    steps:
+
+      # ── Step 1: Generate ALL snake variants ──────────────────────────────
+      - name: 🐍 Generate Snake SVGs (Light + Dark + Sky Blue)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-blue.svg?palette=github-dark&color_snake=38bdf8&color_dots=#0a192f,#1a4a7a,#38bdf8,#7dd3fc,#bae6fd
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Step 2: Verify files were created ────────────────────────────────
+      - name: ✅ Verify Generated Files
+        run: |
+          echo "📁 Generated files:"
+          ls -lh dist/
+          echo ""
+          echo "✅ Snake animation files ready to deploy!"
+
+      # ── Step 3: Push all variants to output branch ────────────────────────
+      - name: 🚀 Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Auto-update snake animation [skip ci]"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Step 4: Summary ──────────────────────────────────────────────────
+      - name: 📊 Job Summary
+        if: always()
+        run: |
+          echo "## 🐍 Snake Animation Update" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| File | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|--------|" >> $GITHUB_STEP_SUMMARY
+          echo "| \`github-contribution-grid-snake.svg\` (Light) | ✅ Generated |" >> $GITHUB_STEP_SUMMARY
+          echo "| \`github-contribution-grid-snake-dark.svg\` (Dark) | ✅ Generated |" >> $GITHUB_STEP_SUMMARY
+          echo "| \`github-contribution-grid-snake-blue.svg\` (Sky Blue) | ✅ Generated |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "> 🕐 Next auto-run: in 12 hours" >> $GITHUB_STEP_SUMMARY
