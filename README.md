@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&height=45&lines=🚀+End-to-End+ML+Pipelines+%7C+Production-Ready+Models;📊+Power+BI+Dashboards+%7C+Business+Intelligence;⚡+PySpark+%7C+Snowflake+%7C+Big+Data+Engineering;🧠+Computer+Vision+%7C+YOLOv5+%7C+Deep+Learning;🎯+Turning+Raw+Data+into+Actionable+Decisions)](https://github.com/tharunshree13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&height=45&lines=🚀+End-to-End+ML+Pipelines+%7C+Production-Ready+Models;📊+Power+BI+Dashboards+%7C+Business+Intelligence;⚡+PySpark+%7C+Snowflake+%7C+Big+Data+Engineering;🧠+Computer+Vision+%7C+YOLOv5+%7C+Deep+Learning;🎯+Turning+Raw+Data+into+Actionable+Decisions)](https://github.com/tharunshreeoff)
 
 </div>
 
@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunshree)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2338BDF8.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://tharunshree.netlify.app/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.tharun066@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunshree13)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunshreeoff)
 
 <br>
 
@@ -118,7 +118,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 ## 🚀 Featured Projects
 
-### 💳 Credit Card Fraud Detection &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshree13/Credit-Card-Fraud-Detection)
+### 💳 Credit Card Fraud Detection &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshreeoff/Credit-Card-Fraud-Detection)
 
 > **Problem:** Real-world fraud data is severely imbalanced — models trained naively fail badly.
 
@@ -133,7 +133,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 ---
 
-### 📈 Crypto Currency Market Analysis &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshree13/Crypto-Currency-Market-Analysis)
+### 📈 Crypto Currency Market Analysis &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshreeoff/Crypto-Currency-Market-Analysis)
 
 > **Problem:** Crypto markets generate massive, noisy data — finding signal is hard.
 
@@ -148,7 +148,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 ---
 
-### 📊 Zepto Sales Intelligence Dashboard &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshree13/PowerBi-Project-)
+### 📊 Zepto Sales Intelligence Dashboard &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshreeoff/PowerBi-Project-)
 
 > **Problem:** Business teams couldn't see performance KPIs in real-time.
 
@@ -163,7 +163,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 ---
 
-### 🚗 Intelligent Video Surveillance System &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshree13/object-detection-speed-tracking-)
+### 🚗 Intelligent Video Surveillance System &nbsp;·&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/tharunshreeoff/object-detection-speed-tracking-)
 
 > **🏆 Presented at a National Level Conference — April 2025**
 
@@ -184,26 +184,26 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tharunshree13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=C0C0C0&text_color=e2e8f0&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tharunshreeoff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=38bdf8&icon_color=C0C0C0&text_color=e2e8f0&border_radius=10" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunshree13&layout=compact&theme=github_dark&hide_border=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunshreeoff&layout=compact&theme=github_dark&hide_border=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&border_radius=10" height="175"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tharunshree13&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=38BDF8&ring=C0C0C0&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C0C0C0&dates=e2e8f0&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tharunshreeoff&theme=github-dark-blue&hide_border=true&background=0a192f&stroke=38BDF8&ring=C0C0C0&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C0C0C0&dates=e2e8f0&border_radius=10)](https://git.io/streak-stats)
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunshree13&bg_color=0a192f&color=38bdf8&line=38bdf8&point=C0C0C0&area=true&area_color=1a4a7a&hide_border=true)](https://github.com/tharunshree13)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunshreeoff&bg_color=0a192f&color=38bdf8&line=38bdf8&point=C0C0C0&area=true&area_color=1a4a7a&hide_border=true)](https://github.com/tharunshreeoff)
 
 <br>
 
 ### 🐍 My Contributions — Watch the Snake Eat!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tharunshree13/tharunshree13/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunshree13/tharunshree13/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/tharunshree13/tharunshree13/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tharunshreeoff/tharunshreeoff/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunshreeoff/tharunshreeoff/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/tharunshreeoff/tharunshreeoff/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -300,9 +300,9 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tharunshree13&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=tharunshreeoff&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/tharunshree13?style=for-the-badge&color=C0C0C0&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/tharunshreeoff?style=for-the-badge&color=C0C0C0&label=FOLLOWERS)
 
 <br><br>
 
@@ -311,31 +311,3 @@ I'm a **Data Scientist & ML Engineer** passionate about building intelligent sys
 </div>
 
 
----
-
-# 🧠 Deep Learning
-
-- TensorFlow
-- Keras
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Long Short-Term Memory (LSTM)
-- Transfer Learning
-
-# 💬 Natural Language Processing (NLP)
-
-- Text Preprocessing
-- Tokenization
-- Stop Words Removal
-- Lemmatization
-- CountVectorizer
-- TF-IDF
-- Word Embeddings
-- Sentiment Analysis
-- Text Classification
-- Hugging Face Transformers
-- NLTK
-- spaCy
-
-> 🚀 Currently expanding my expertise in Deep Learning, NLP, and Generative AI.
